@@ -23,5 +23,5 @@ for candidate_number in range(start_number, end_number, 1):
 end = round(time.time() - start, 2)
 
 print("Elapsed time: " + str(end) + " seconds")
-print("Prime numbers found: " + str(no_primes))
+print("Prime numbers found: " + str(len(primes)))
 print(primes)
