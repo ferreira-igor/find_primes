@@ -1,5 +1,5 @@
 # Find Primes
 
-## Descrição
+## Description
 
-Find Primes é um script que tem como função encontrar todos os números primos até o número desejado.
+Find Primes is a script whose function is to find all primes up to the desired number.
